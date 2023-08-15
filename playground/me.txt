@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aryan
+Skills: HTML, CSS, JS, Next.js, Tailwind, Flutter, Python, SvelteKit, Machine Learning, Java, Kotlin
+Email: 11062003sam@gmail.com
+{{/user}}
